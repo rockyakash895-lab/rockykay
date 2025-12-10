@@ -1,8 +1,8 @@
 {
   "status": "active",
   "latest_version_date": "01/01/2026",
-  "update_url": "https://t.me/DPMods",
-  "admin_url": "https://t.me/DPMods",
+  "update_url": "",
+  "admin_url": "",
   
   "time_api": "https://timeapi.io/api/Time/current/zone?timeZone=Asia/Kolkata",
   "time_api_backup": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
@@ -33,6 +33,13 @@
       ],
       "success_toast": "Welcome Developer!"
     },
+    {
+      "username": "3",
+      "password": "3",
+      "expiry_date": "30/12/2025",
+      "allowed_devices": [
+        "e0cb9a72a3680157"
+      ],
     {
       "username": "user",
       "password": "user",
