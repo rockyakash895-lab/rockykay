@@ -2,7 +2,7 @@
   "status": "active",
   "latest_version_date": "01/01/2026",
   "update_url": "",
-  "admin_url": "",
+  "admin_url": "https://t.me/Akashrocky777",
   
   "time_api": "https://timeapi.io/api/Time/current/zone?timeZone=Asia/Kolkata",
   "time_api_backup": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
