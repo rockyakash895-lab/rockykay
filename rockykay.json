@@ -35,8 +35,8 @@
     },
     {
       "username": "rocky",
-      "password": "rocky5",
-      "expiry_date": "20/12/2025",
+      "password": "rocky",
+      "expiry_date": "20/12/2024",
       "allowed_devices": [
         "e0cb9a72a3680157"
       ],
