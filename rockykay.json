@@ -34,8 +34,8 @@
       "success_toast": "Welcome Developer!"
     },
     {
-      "username": "3",
-      "password": "3",
+      "username": "r",
+      "password": "r",
       "expiry_date": "03/12/2025",
       "allowed_devices": [
         "e0cb9a72a3680157"
