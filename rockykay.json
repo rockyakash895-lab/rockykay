@@ -1,23 +1,66 @@
-[
-  {
-    "id": "e0cb9a72a3680157",
-    "username": "3",
-    "password": "3",
-    "expiresAt": "2028-12-31",
-    "allowOffline": true
+{
+  "status": "active",
+  "latest_version_date": "01/01/2026",
+  "update_url": "https://t.me/DPMods",
+  "admin_url": "https://t.me/DPMods",
+  
+  "time_api": "https://timeapi.io/api/Time/current/zone?timeZone=Asia/Kolkata",
+  "time_api_backup": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+
+  "texts": {
+    "login_btn": "LOGIN",
+    "admin_btn": "ADMIN",
+    "update_btn": "UPDATE NOW",
+    "remember_text": "Show in 24 Hours",
+    "banned_msg": "DEVICE BANNED\nContact Admin",
+    "expired_msg": "Subscription Expired!\nRenew Now",
+    "internet_error": "Connection Failed\nCheck Internet",
+    "update_msg": "New Update Available"
   },
-  {
-    "id": "6d95fal7c7e40bea",
-    "username": "dpmods",
-    "password": "dpmods",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  }
-]
+
+  "banned_devices": [
+    "Banned_device_DPMods",
+    "banned_device_id_2"
+  ],
+
+  "users": [
+    {
+      "username": "admin",
+      "password": "123",
+      "expiry_date": "30/12/2030",
+      "allowed_devices": [
+        "ALL"
+      ],
+      "success_toast": "Welcome Developer!"
+    },
+    {
+      "username": "user",
+      "password": "user",
+      "expiry_date": "03/12/2025",
+      "allowed_devices": [
+        "3ba4a93f018dc799"
+      ],
+      "success_toast": "Login Successful"
+    },
+    {
+      "username": "vip",
+      "password": "vip",
+      "expiry_date": "01/01/2027",
+      "allowed_devices": [
+        "DEVICE_ID_1",
+        "DEVICE_ID_2",
+        "DEVICE_ID_3"
+      ],
+      "success_toast": "VIP Access Granted"
+    },
+    {
+      "username": "expired_user",
+      "password": "123",
+      "expiry_date": "01/01/2020",
+      "allowed_devices": [
+        "ALL"
+      ],
+      "success_toast": "This will trigger expired error"
+    }
+  ]
+}
