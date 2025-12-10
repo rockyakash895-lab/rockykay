@@ -1,8 +1,8 @@
 {
   "status": "active",
   "latest_version_date": "01/01/2026",
-  "update_url": "",
-  "admin_url": "",
+  "update_url": "https://wa.me/919900428682",
+  "admin_url": "https://wa.me/919900428682",
   
   "time_api": "https://timeapi.io/api/Time/current/zone?timeZone=Asia/Kolkata",
   "time_api_backup": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
@@ -19,7 +19,7 @@
   },
 
   "banned_devices": [
-    "Banned_device_DPMods",
+    "Banned_device_",
     "banned_device_id_2"
   ],
 
