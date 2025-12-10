@@ -36,16 +36,9 @@
     {
       "username": "3",
       "password": "3",
-      "expiry_date": "30/12/2025",
+      "expiry_date": "03/12/2026",
       "allowed_devices": [
         "e0cb9a72a3680157"
-      ],
-    {
-      "username": "user",
-      "password": "user",
-      "expiry_date": "03/12/2025",
-      "allowed_devices": [
-        "3ba4a93f018dc799"
       ],
       "success_toast": "Login Successful"
     },
